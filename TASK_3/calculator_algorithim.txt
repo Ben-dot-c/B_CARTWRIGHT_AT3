@@ -1,0 +1,19 @@
+1. Start
+2. Get first number from user
+3. Get second number from user
+4. Get operator from user
+5. Check operator
+	a. If operator is +
+		i. Add first and second number
+	b. If operator is –
+		i. Subtract first number from second number
+	c. If operator is *
+		i. Multiply first and second number
+	d. If operator is /
+		i. Check if second number is 0
+			1. If yes, print error and exit program
+		ii. Divide first  number by second number
+	e. If operator is none of the above 
+		i. print error and exit program
+6. Print final answer 
+7. end
